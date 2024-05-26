@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512378373939",
+    "project_id": "updateuserdata-c8dce",
+    "storage_bucket": "updateuserdata-c8dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512378373939:android:0136a6455adc9a74b2e046",
+        "android_client_info": {
+          "package_name": "com.example.updateuserdata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmS7zBXp_0S_ieeix5fpXayr1iUgu_CAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
